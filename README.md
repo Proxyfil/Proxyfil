@@ -5,7 +5,11 @@
 
 - 🤝 Je fais parti des [@Les_InGDoc](https://twitter.com/Les_InGdoc)
 
+- 🌱 Je suis actuellement sous status **scolaire**
+
 - ⚙️ Je développe actuellement un bot Discord [PollPy](http://www.pollpy.com/)
+
+- 👓 Je fais pleins de recherche sur les données et les visualisations de ces dernières comme pour ces [infographies](https://twitter.com/Les_InGdoc/status/1455123032243150859/photo/1)
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
