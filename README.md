@@ -1,7 +1,8 @@
 <h1 align="center">Salut 👋 ! Moi c'est Proxyfil</h1>
 <h3 align="center">Un développeur passionné par les statistiques !</h3>
 
-<p align="left"> <a href="https://twitter.com/proxyfil_" target="blank"><img src="https://img.shields.io/twitter/follow/proxyfil_?logo=twitter&style=for-the-badge" alt="proxyfil_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Proxyfil_" target="blank"><img src="https://img.shields.io/twitter/follow/Proxyfil_?logo=twitter&style=for-the-badge" alt="Proxyfil_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Les_InGDoc" target="blank"><img src="https://img.shields.io/twitter/follow/Les_InGDoc?logo=twitter&style=for-the-badge" alt="Les_InGDoc" /></a> </p>
 
 - 🤝 Je fais parti des [@Les_InGDoc](https://twitter.com/Les_InGdoc)
 
