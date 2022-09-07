@@ -8,7 +8,7 @@
 
 - 🤝 Je fais parti des [@Les_InGDoc](https://twitter.com/Les_InGdoc)
 
-- 🌱 Je suis actuellement sous status **scolaire**
+- 🌱 Je suis actuellement sous status d'**étudiant**
 
 - ⚙️ Je développe actuellement un bot Discord [PollPy](http://www.pollpy.com/)
 
